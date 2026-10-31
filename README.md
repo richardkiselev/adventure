@@ -1,8 +1,6 @@
 # what the project is 
-- python coded
-- text adventure game
-- explore a trail into the woods...
+Coded in Python. A text adventure game where you explore a trail into the woods... This is the first chapter, titled "Bugs".
 # how you built it
-- vscode and python
+Coded entirely in Python. VS Code as my IDE. 
 # how to run it
-- download exe and run it
+Download the .exe file and run it. Simple as that.
